@@ -30,7 +30,7 @@ for (int i = 0; i < m; i++)
         index = i;
     }
 }
-Console.WriteLine($"Наименьшая сумма элементов строки составляет {min} её индекс -> {index}");
+Console.WriteLine($"Наименьшая сумма элементов строки составляет {min} её индекс -> {index} ");
 
 void PrintArr(int[,] matrix)
 {
